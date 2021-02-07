@@ -9,5 +9,5 @@ All you need is a Google account.
 
 You can find the entire Python script above (as .py and .ipynb files), but for a more interactive learning experience, I recommend that you open the tutorial in Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sandramv/MRInference_ML_Tutorial/blob/master/Scripts/MRInference_Machine_Learning_Tutorial.ipynb)
 
-### On the day of the practical, please use the colab link to open the code.
+### On the day of the practical, please use the Google Colab link above to open the code.
 
